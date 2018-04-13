@@ -2,6 +2,7 @@
 mynw-demo
 
 * github: https://github.com/nwjs/nw.js
+* wiki: https://github.com/nwjs/nw.js/wiki/How-to-run-apps
 
 * demo:
 
